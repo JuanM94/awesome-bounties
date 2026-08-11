@@ -59,6 +59,20 @@ label:"💎 Bounty" label:"$100" state:open type:issue
 label:bounty "$" state:open type:issue
 ```
 
+### Tools
+
+| Tool | What it does |
+|------|--------------|
+| [bounty-census](https://github.com/AsherKasper/bounty-census) | Censuses every open `💎 Bounty` issue on GitHub and reports where the money actually sits |
+| [BOUNTIES.md](https://github.com/AsherKasper/bounty-census/blob/main/BOUNTIES.md) | Daily-updated list of the bounties left after filtering out farm-shaped repos |
+
+> **Calibrate before you commit time.** A census of all 561 open `💎 Bounty` issues (2026-08-11)
+> found **$1,142,625** advertised — but roughly **99% of it sits in three repositories** running
+> programmes at unusual scale. Filtering for repos with ≤25 open bounties, ≥25 stars and a push
+> within the last year leaves **15 bounties across 8 repos, $510 in visible amounts, median age
+> 807 days**. Numbers are reproducible in about a minute with one script —
+> [method and data](https://github.com/AsherKasper/bounty-census).
+
 ### Tips for Claiming Bounties
 
 1. **Read the issue carefully.** Meet ALL acceptance criteria.
