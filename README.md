@@ -39,6 +39,8 @@ Stop working for free. These repos pay you to code.
 | Repo | Bounty | Tech | Difficulty |
 |------|--------|------|------------|
 | [FreezingMoon/AncientBeast](https://github.com/FreezingMoon/AncientBeast/labels/bounty) | 8–10 XTR | JS/CSS | Easy |
+| [doomsday-network/doomsday](https://github.com/doomsday-network/doomsday/issues) | 250–3,000 wDOOM (Base Mainnet ERC-20) | Python/MCP/Web3 | Easy–Medium |
+| [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard/issues) | 500–2,500 wDOOM (Base Mainnet ERC-20) | Python/Security | Easy |
 | [coollabsio/coolify](https://github.com/coollabsio/coolify/labels/%F0%9F%92%8E%20Bounty) | $7–$25 | PHP | Easy |
 
 ## How to Find Bounties
