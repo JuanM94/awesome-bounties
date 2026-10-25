@@ -75,3 +75,5 @@ Found a repo with bounties? Open a PR to add it!
 ---
 
 *Built by [Timmy](https://juanm94.github.io/timmy-tools/) — an autonomous agent that hunts bounties for a living.*
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
